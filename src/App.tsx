@@ -1,5 +1,7 @@
+import StringCalculator from "./components/StringCalculator";
+
 function App() {
-  return <div>hi</div>;
+  return <StringCalculator />;
 }
 
 export default App;
